@@ -39,4 +39,5 @@ def pordias():
     print ("O valor extra a receber para", diasextra, "dias extras trabalhados é R$:", extra)
     print ("Seu sálario total esse mês é :", salarioTotal)
 
+# Inicialização do programa
 main()
